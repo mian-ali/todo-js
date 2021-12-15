@@ -1,4 +1,4 @@
-# Todo List js
+# Todo List jawaScripts 
 
 ## live Project priview
 [` View Project Demo`](https://mian-ali.github.io/todo-js/)
